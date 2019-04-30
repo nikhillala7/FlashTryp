@@ -1,0 +1,150 @@
+[
+    {
+          "tag1": "#Museum",
+          "tag2": "#Historic",
+          "tag3": "#Art",
+          "tag4": "#Relaxing",
+          "Title": "Go Ice Skating at Yerba Buena",
+          "Tags":"#KidFriendly #Sports",
+          "paid": "https://i.imgur.com/TLodN94.png",
+          "like":"https://i.imgur.com/gFlTyyV.png",
+          "share":"https://i.imgur.com/1AHhOQ2.png",
+          "likes":"9662 Likes",
+          "source":"https://i.imgur.com/zDUZUIA.jpg"
+    },
+    {
+        "tag1": "#Museum",
+        "tag2": "#Historic",
+        "tag3": "#Art",
+        "tag4": "#Relaxing",
+        "Title": "Visit the Exploratorium",
+        "Tags":"#Museum #KidFriendly #Water",
+        "paid": "https://i.imgur.com/TLodN94.png",
+        "like":"https://i.imgur.com/gFlTyyV.png",
+        "share":"https://i.imgur.com/1AHhOQ2.png",
+        "likes":"1231 Likes",
+        "source": "https://i.imgur.com/XpCpltb.jpg"
+    },
+    {
+        "tag1": "#Museum",
+        "tag2": "#Historic",
+        "tag3": "#Art",
+        "tag4": "#Relaxing",
+        "Title": "Walk Across Golden Gate Bridge",
+        "paid":"https://i.imgur.com/D1HaiHs.png",
+        "Tags":"#Picturesque #Historic #Water #Touristy #MustDo #Outdoors" ,
+        "like":"https://i.imgur.com/gFlTyyV.png",
+        "share":"https://i.imgur.com/1AHhOQ2.png",
+        "likes":"11273 Likes",
+        "source": "https://i.imgur.com/SpHS7Mq.jpg"
+    },
+    {
+        "tag1": "#Museum",
+        "tag2": "#Historic",
+        "tag3": "#Art",
+        "tag4": "#Relaxing",
+        "Title": "Hangout in Washington Square Park",
+        "paid":"https://i.imgur.com/D1HaiHs.png",
+        "Tags":"#Picturesque #Historic #Relaxing #Niche #MustDo #Outdoors" ,
+        "like":"https://i.imgur.com/gFlTyyV.png",
+        "share":"https://i.imgur.com/1AHhOQ2.png",
+         "likes":"1162 Likes",
+        "source": "https://i.imgur.com/9IHjjTi.jpg"
+    },
+    {
+        "tag1": "#Museum",
+        "tag2": "#Historic",
+        "tag3": "#Art",
+        "tag4": "#Relaxing",
+        "Title": "Visit the Walt Disney Museum",
+        "Tags":"#Museum #Historic #KidFriendly",
+        "paid": "https://i.imgur.com/TLodN94.png",
+        "like":"https://i.imgur.com/gFlTyyV.png",
+        "share":"https://i.imgur.com/1AHhOQ2.png",
+         "likes":"2232 Likes",
+        "source":"https://i.imgur.com/pnEtpHH.jpg"
+        
+    },
+    {
+        "tag1": "#Museum",
+        "tag2": "#Historic",
+        "tag3": "#Art",
+        "tag4": "#Relaxing",
+        "Title": "Hangout in Washington Square Park",
+        "paid":"https://i.imgur.com/D1HaiHs.png",
+        "Tags":"#Picturesque #Historic #Relaxing #Niche #MustDo #Outdoors" ,
+        "like":"https://i.imgur.com/gFlTyyV.png",
+        "share":"https://i.imgur.com/1AHhOQ2.png",
+        "likes":"1162 Likes",
+        "source": "https://i.imgur.com/9IHjjTi.jpg"
+    },
+    
+   
+    {
+        "tag1": "#Museum",
+        "tag2": "#Historic",
+        "tag3": "#Art",
+        "tag4": "#Relaxing",
+        "Title": "Visit Muir Woods",
+        "paid": "https://i.imgur.com/TLodN94.png",
+        "Tags":"#Outdoors #Picturesque #Historic",
+        "like":"https://i.imgur.com/gFlTyyV.png",
+        "share":"https://i.imgur.com/1AHhOQ2.png",
+        "likes":"3431 Likes",
+        "source": "https://i.imgur.com/2x1wZbN.jpg"
+    },
+    {
+        "tag1": "#Museum",
+        "tag2": "#Historic",
+        "tag3": "#Art",
+        "tag4": "#Relaxing",
+        "Title": "Play tennis at one of San Francisco's public courts",
+        "paid":"https://i.imgur.com/D1HaiHs.png",
+        "Tags":"#Outdoors #Sports #Relaxing",
+        "like":"https://i.imgur.com/gFlTyyV.png",
+        "share":"https://i.imgur.com/1AHhOQ2.png",
+        "likes":"6545 Likes",
+        "source": "https://i.imgur.com/fJyHZ8r.jpg"
+    },
+    {
+        "tag1": "#Museum",
+        "tag2": "#Historic",
+        "tag3": "#Art",
+        "tag4": "#Relaxing",
+        "Title": "Walk around the Conservatory of Flowers",
+        "paid":"https://i.imgur.com/D1HaiHs.png",
+        "Tags":"#Picturesque #Historic #Picturesque #Architecture #Museum" ,
+        "like":"https://i.imgur.com/gFlTyyV.png",
+        "share":"https://i.imgur.com/1AHhOQ2.png",
+        "likes":"65451 Likes",
+        "source": "https://i.imgur.com/YpXX6yi.jpg"
+    },
+    {
+        "tag1": "#Museum",
+        "tag2": "#Historic",
+        "tag3": "#Art",
+        "tag4": "#Relaxing",
+        "Title": "Visit the top of Coit Tower",
+        "paid":"https://i.imgur.com/D1HaiHs.png",
+        "Tags":"#Picturesque #Historic #Architecture #Touristy" ,
+        "like":"https://i.imgur.com/gFlTyyV.png",
+        "share":"https://i.imgur.com/1AHhOQ2.png",
+        "likes":"134324 Likes",
+        "source": "https://i.imgur.com/RD7Ym5J.jpg"
+    },
+    
+    {
+        "tag1": "#Museum",
+        "tag2": "#Historic",
+        "tag3": "#Art",
+        "tag4": "#Relaxing",
+        "Title": "Visit The Asian Art Museum",
+        "Tags":"#Picturesque #Historic #Water #Touristy #MustDo #Outdoors" ,
+        "paid": "https://i.imgur.com/TLodN94.png",
+        "like":"https://i.imgur.com/gFlTyyV.png",
+        "share":"https://i.imgur.com/1AHhOQ2.png",
+        "likes":"8792 Likes",
+        "source": "https://i.imgur.com/tUTxjpb.jpg"
+    },
+    
+]
